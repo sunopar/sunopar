@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/opar"><img src="https://api.daily.dev/devcards/3255d429446a498f8642175eb853a016.png?r=1pa" width="400" alt="opar's Dev Card"/></a>
